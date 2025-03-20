@@ -1,4 +1,4 @@
-export const eventTypeMap = {
+exports.eventTypeMap = {
     'chat':'唠嗑',
     'go':'下棋',
     'explain':'讲棋',
