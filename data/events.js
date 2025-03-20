@@ -1,26 +1,4 @@
-import type { eventTypeMap } from '@/data/maps'
-
-export type EventType = keyof typeof eventTypeMap
-
-export type EventItem = {
-  date: string
-  type: EventType
-  title: string
-  rec?: string
-  cancelled?: boolean
-  reason?: string
-  fans_rec?: boolean
-}
-
-export type WeekItem = {
-  year: number
-  week: number
-  bilibili_url?: string
-  events: EventItem[]
-}
-
-// prettier-ignore
-export const events: WeekItem[] = [
+exports.events = [
     {
         year: 2025, week: 9, events: [
             { date: "2025-03-02 14:00+08:00", type: "offline", title: "新加坡南洋理工大学(NUS)校园行", cancelled: false, bilibili_url: "1039571832994267141" },
