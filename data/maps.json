@@ -2,8 +2,7 @@
     "eventTypeMap":
     {
         "chat": "唠嗑",
-        "go": "下棋",
-        "explain": "讲棋",
+        "go": "围棋",
         "together": "水友互动",
         "game": "游戏",
         "watch": "观影",
