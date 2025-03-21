@@ -1,0 +1,60 @@
+{
+    "site_changelog":
+    {
+
+        "name": "网站更新日志",
+        "description": "记录网站的更新和变更历史",
+        "last_updated": "2025-04-06",
+        "repository": "https://github.com/iyingfans",
+        "type_definitions":
+        {
+            "major": "重大版本发布",
+            "feature": "新功能",
+            "optimize": "优化改进",
+            "fix": "问题修复",
+            "init": "初始化",
+            "by": "RhettTien"
+        },
+        "logs": [
+        {
+            "date": "2025-03-21",
+            "version": "0.9.1",
+            "type": "optimize",
+            "content": "优化接口返回参数,新增上传接口",
+            "details": "优化接口返回参数,新增上传接口",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-20",
+            "version": "0.9.0",
+            "type": "feature",
+            "content": "日程文件页面和外部存储方案设计",
+            "details": "新增日程系统和存储方案",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-17",
+            "version": "0.8.0",
+            "type": "feature",
+            "content": "后台管理页面接口完善",
+            "details": "完善后台管理系统接口",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-16",
+            "version": "0.7.0",
+            "type": "optimize",
+            "content": "完善简化后台接口",
+            "details": "优化后台接口结构",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2024-06-08",
+            "version": "0.1.0",
+            "type": "init",
+            "content": "萌生建站想法",
+            "details": "项目启动",
+            "by": "RhettTien"
+        }]
+    }
+}
