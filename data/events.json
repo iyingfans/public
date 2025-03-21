@@ -10,49 +10,56 @@
             "type": "offline",
             "title": "新加坡南洋理工大学(NUS)校园行",
             "cancelled": false,
-            "bilibili_url": "1039571832994267141"
+            "bilibili_url": "1039571832994267141",
+            "record": ""
         },
         {
             "date": "2025-03-01 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-28 17:00+08:00",
             "type": "offline",
             "title": "新加坡国立大学(NUS)校园行",
             "cancelled": false,
-            "bilibili_url": "1038665393079582740"
+            "bilibili_url": "1038665393079582740",
+            "record": ""
         },
         {
             "date": "2025-02-27 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-26 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-25 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-24 19:00+08:00",
             "type": "chat",
             "title": "梦百合拍摄",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         }]
     },
     {
@@ -64,49 +71,56 @@
             "type": "together",
             "title": "姐妹欢乐斗地主",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-22 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-21 13:00+08:00",
-            "type": "explain",
+            "type": "go",
             "title": "农心杯",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-20 13:00+08:00",
-            "type": "explain",
+            "type": "go",
             "title": "农心杯",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-19 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-18 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         },
         {
             "date": "2025-02-17 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": ""
+            "bilibili_url": "",
+            "record": ""
         }]
     }]
 }
