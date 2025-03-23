@@ -1,24 +1,329 @@
 {
-    "comment": "所有括号使用英文半角字符，字符对应的含义请看 README 文件",
+    "comment": "所有标点使用英文半角，字段对应含义请看 README 文件",
     "events": [
+    {
+        "year": 2025,
+        "week": 14,
+        "events": [
+        {
+            "date": "2025-04-06 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-05 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-04 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-03 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-02 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-01 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-31 19:00+08:00",
+            "type": "game",
+            "title": "刺客信条or荒野大镖客2",
+            "cancelled": false,
+            "bili_opus_url": "1047165537052786697",
+            "record": ""
+        }]
+    },
+    {
+        "year": 2025,
+        "week": 13,
+        "events": [
+        {
+            "date": "2025-03-30 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-29 19:00+08:00",
+            "type": "radio",
+            "title": "情感电台",
+            "cancelled": false,
+            "bili_opus_url": "1047165537052786697",
+            "record": ""
+        },
+        {
+            "date": "2025-03-28 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-27 19:00+08:00",
+            "type": "go",
+            "title": "围棋大赛直播",
+            "cancelled": false,
+            "bili_opus_url": "1047165537052786697",
+            "record": ""
+        },
+        {
+            "date": "2025-03-26 19:00+08:00",
+            "type": "go",
+            "title": "围棋大赛直播",
+            "cancelled": false,
+            "bili_opus_url": "1047165537052786697",
+            "record": ""
+        },
+        {
+            "date": "2025-03-25 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-24 19:00+08:00",
+            "type": "game",
+            "title": "刺客信条",
+            "cancelled": false,
+            "bili_opus_url": "1047165537052786697",
+            "record": ""
+        }]
+    },
+    {
+        "year": 2025,
+        "week": 12,
+        "events": [
+        {
+            "date": "2025-03-23 19:00+08:00",
+            "type": "game",
+            "title": "刺客信条",
+            "cancelled": false,
+            "bili_opus_url": "1046829769403924482",
+            "record": ""
+        },
+        {
+            "date": "2025-03-22 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-21 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-20 14:00+08:00",
+            "type": "game",
+            "title": "刺客信条影",
+            "cancelled": false,
+            "bili_opus_url": "1046068744140357639",
+            "record": "BV1DiXNYMEUD"
+        },
+        {
+            "date": "2025-03-19 19:00+08:00",
+            "type": "chat",
+            "title": "刺客信条 荒野大镖客 斗地主",
+            "cancelled": false,
+            "bili_opus_url": "1045697585990336518",
+            "record": "BV1CrQfY6EwJ"
+        },
+        {
+            "date": "2025-03-18 19:00+08:00",
+            "type": "chat",
+            "title": "赵晨宇大甜婚礼 和老Biu玩双影奇境",
+            "cancelled": false,
+            "bili_opus_url": "1044947723347820551",
+            "record": "BV1XRX7YCEjD"
+        },
+        {
+            "date": "2025-03-17 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        }]
+    },
+    {
+        "year": 2025,
+        "week": 11,
+        "events": [
+        {
+            "date": "2025-03-16 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-15 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-14 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-13 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-12 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-11 19:00+08:00",
+            "type": "collab",
+            "title": "和老Biu玩双影奇境",
+            "cancelled": false,
+            "bili_opus_url": "1042685117397467137",
+            "record": "BV1pwQLYEEG7"
+        },
+        {
+            "date": "2025-03-10 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        }]
+    },
+    {
+        "year": 2025,
+        "week": 10,
+        "events": [
+        {
+            "date": "2025-03-09 19:00+08:00",
+            "type": "together",
+            "title": "斗地主大赛 双影奇境",
+            "cancelled": false,
+            "bili_opus_url": "1041487757802733593",
+            "record": "BV1MtRaYjEMY"
+        },
+        {
+            "date": "2025-03-08 19:00+08:00",
+            "type": "together",
+            "title": "斗地主大赛 双影奇境",
+            "cancelled": false,
+            "bili_opus_url": "1041487757802733593",
+            "record": "BV1GCRWYPEhd"
+        },
+        {
+            "date": "2025-03-07 19:00+08:00",
+            "type": "collab",
+            "title": "和老Biu玩双影奇境",
+            "cancelled": false,
+            "bili_opus_url": "1041487757802733593",
+            "record": "BV1nx9SYmEJ8"
+        },
+        {
+            "date": "2025-03-06 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-05 19:00+08:00",
+            "type": "chat",
+            "title": "聊聊旅游趣事",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": "BV1Lu9ZYhEvG"
+        },
+        {
+            "date": "2025-03-04 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-03-03 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        }]
+    },
     {
         "year": 2025,
         "week": 9,
         "events": [
         {
-            "date": "2025-03-02 14:00+08:00",
+            "date": "2025-03-02 15:00+08:00",
             "type": "offline",
-            "title": "新加坡南洋理工大学(NUS)校园行",
+            "title": "新加坡南洋理工(NUS)校园行",
             "cancelled": false,
-            "bilibili_url": "1039571832994267141",
-            "record": ""
+            "bili_opus_url": "1039571832994267141",
+            "record": "BV1GW9tYzEKv"
         },
         {
             "date": "2025-03-01 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": "",
+            "bili_opus_url": "",
             "record": ""
         },
         {
@@ -26,23 +331,23 @@
             "type": "offline",
             "title": "新加坡国立大学(NUS)校园行",
             "cancelled": false,
-            "bilibili_url": "1038665393079582740",
-            "record": ""
+            "bili_opus_url": "1038665393079582740",
+            "record": "BV16d93YkE63"
         },
         {
-            "date": "2025-02-27 19:00+08:00",
-            "type": "rest",
-            "title": "",
+            "date": "2025-02-27 16:00+08:00",
+            "type": "offline",
+            "title": "户外突袭开播",
             "cancelled": false,
-            "bilibili_url": "",
-            "record": ""
+            "bili_opus_url": "",
+            "record": "BV1tM9PYaEG2"
         },
         {
             "date": "2025-02-26 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": "",
+            "bili_opus_url": "",
             "record": ""
         },
         {
@@ -50,16 +355,16 @@
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": "",
+            "bili_opus_url": "",
             "record": ""
         },
         {
-            "date": "2025-02-24 19:00+08:00",
+            "date": "2025-02-24 19:30+08:00",
             "type": "chat",
-            "title": "梦百合拍摄",
+            "title": "突袭!梦百合拍摄",
             "cancelled": false,
-            "bilibili_url": "",
-            "record": ""
+            "bili_opus_url": "1037482915566452752",
+            "record": "BV1KBPtexERa"
         }]
     },
     {
@@ -71,55 +376,116 @@
             "type": "together",
             "title": "姐妹欢乐斗地主",
             "cancelled": false,
-            "bilibili_url": "",
-            "record": ""
+            "bili_opus_url": "",
+            "record": "BV1K8ASe7ERE"
         },
         {
             "date": "2025-02-22 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": "",
+            "bili_opus_url": "",
             "record": ""
         },
         {
-            "date": "2025-02-21 13:00+08:00",
+            "date": "2025-02-21 14:00+08:00",
             "type": "go",
-            "title": "农心杯",
+            "title": "农心杯决胜局:丁浩VS申真谞",
             "cancelled": false,
-            "bilibili_url": "",
-            "record": ""
+            "bili_opus_url": "1035951691019583491",
+            "record": "BV1SFPFemE7X"
         },
         {
-            "date": "2025-02-20 13:00+08:00",
+            "date": "2025-02-20 14:00+08:00",
             "type": "go",
-            "title": "农心杯",
+            "title": "农心杯:李轩豪VS申真谞",
             "cancelled": false,
-            "bilibili_url": "",
-            "record": ""
+            "bili_opus_url": "1035653869358546952",
+            "record": "BV1FgAHetErv"
         },
         {
             "date": "2025-02-19 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": "",
+            "bili_opus_url": "",
             "record": ""
         },
         {
             "date": "2025-02-18 19:00+08:00",
-            "type": "rest",
-            "title": "",
+            "type": "game",
+            "title": "姐妹欢乐斗地主",
             "cancelled": false,
-            "bilibili_url": "",
-            "record": ""
+            "bili_opus_url": "1034922303290343432",
+            "record": "BV1ifAYepESu"
         },
         {
             "date": "2025-02-17 19:00+08:00",
             "type": "rest",
             "title": "",
             "cancelled": false,
-            "bilibili_url": "",
+            "bili_opus_url": "",
+            "record": ""
+        }]
+    },
+    {
+        "year": 2025,
+        "week": 7,
+        "events": [
+        {
+            "date": "2025-02-16 19:00+08:00",
+            "type": "radio",
+            "title": "216航海回馈 情感电台",
+            "cancelled": false,
+            "bili_opus_url": "1034235636812349449",
+            "record": "BV1dcwDewEfC"
+        },
+        {
+            "date": "2025-02-15 19:00+08:00",
+            "type": "watch",
+            "title": "一起看电影",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": "BV1UxAKecE4B"
+        },
+        {
+            "date": "2025-02-14 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-02-13 19:00+08:00",
+            "type": "go",
+            "title": "指导棋 荒野大镖客2",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": "BV1urKWeREWK"
+        },
+        {
+            "date": "2025-02-12 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-02-11 19:00+08:00",
+            "type": "game",
+            "title": "荒野大镖客2",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": "BV1S1N6eAEML"
+        },
+        {
+            "date": "2025-02-10 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
             "record": ""
         }]
     }]

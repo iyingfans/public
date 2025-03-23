@@ -1,7 +1,6 @@
 {
     "site_changelog":
     {
-
         "name": "网站更新日志",
         "description": "记录网站的更新和变更历史",
         "last_updated": "2025-04-06",
@@ -17,35 +16,43 @@
         },
         "logs": [
         {
-            "date": "2025-03-21",
-            "version": "0.9.1",
+            "date": "2025-03-22",
+            "version": "0.7.2,
             "type": "optimize",
-            "content": "优化接口返回参数,新增上传接口",
+            "content": "优化调试接口",
+            "details": "优化调试上传接口，后台页面调整，日程页面样式调整",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-21",
+            "version": "0.7.1",
+            "type": "optimize",
+            "content": "调试新增接口",
             "details": "优化接口返回参数,新增上传接口",
             "by": "RhettTien"
         },
         {
             "date": "2025-03-20",
-            "version": "0.9.0",
+            "version": "0.7.0",
             "type": "feature",
-            "content": "日程文件页面和外部存储方案设计",
-            "details": "新增日程系统和存储方案",
+            "content": "新增日程页面",
+            "details": "日程页面内容文件的外部存储方案设计",
             "by": "RhettTien"
         },
         {
             "date": "2025-03-17",
-            "version": "0.8.0",
+            "version": "0.6.0",
             "type": "feature",
-            "content": "后台管理页面接口完善",
-            "details": "完善后台管理系统接口",
+            "content": "新增后台管理页面",
+            "details": "完善新增的后台管理系统接口",
             "by": "RhettTien"
         },
         {
             "date": "2025-03-16",
-            "version": "0.7.0",
+            "version": "0.5.0",
             "type": "optimize",
-            "content": "完善简化后台接口",
-            "details": "优化后台接口结构",
+            "content": "简化接口",
+            "details": "优化后台接口返回数据结构，合并相似功能接口",
             "by": "RhettTien"
         },
         {
