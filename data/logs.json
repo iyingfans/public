@@ -16,6 +16,46 @@
         },
         "logs": [
         {
+            "date": "2025-03-27",
+            "version": "0.7.4,
+            "type": "optimize",
+            "content": "完成图片上传接口和生成缩略图",
+            "details": "优化接口防护逻辑，完善上传类型判断处理",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-26",
+            "version": "0.7.3,
+            "type": "optimize",
+            "content": "完成图片上传接口和生成缩略图",
+            "details": "实现图片上传校验、压缩图片为缩略图",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-25",
+            "version": "0.7.2,
+            "type": "optimize",
+            "content": "优化调试接口",
+            "details": "添加开播状态显示，添加站内资源统计，系统常量从Caffeine缓存换为本地变量，使用Pinia存储常量",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-24",
+            "version": "0.7.2,
+            "type": "optimize",
+            "content": "优化调试接口",
+            "details": "修复接口参数bug，修复分页组件bug，增加缩略图预览，优化首页遮罩层动画效果，首页大图改为轮播图",
+            "by": "RhettTien"
+        },
+        {
+            "date": "2025-03-23",
+            "version": "0.7.2,
+            "type": "optimize",
+            "content": "优化调试接口",
+            "details": "设计上传页面样式，完善日程表页面样式和逻辑，完善外部文件结构和数据，主页增加特效彩蛋",
+            "by": "RhettTien"
+        },
+        {
             "date": "2025-03-22",
             "version": "0.7.2,
             "type": "optimize",
@@ -59,7 +99,7 @@
             "date": "2024-06-08",
             "version": "0.1.0",
             "type": "init",
-            "content": "萌生建站想法",
+            "content": "新建文件夹",
             "details": "项目启动",
             "by": "RhettTien"
         }]

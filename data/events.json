@@ -56,7 +56,7 @@
         {
             "date": "2025-03-31 19:00+08:00",
             "type": "game",
-            "title": "刺客信条or荒野大镖客2",
+            "title": "刺客信条 荒野大镖客2",
             "cancelled": false,
             "bili_opus_url": "1047165537052786697",
             "record": ""
@@ -91,20 +91,20 @@
             "record": ""
         },
         {
-            "date": "2025-03-27 19:00+08:00",
+            "date": "2025-03-27 14:30+08:00",
             "type": "go",
-            "title": "围棋大赛直播",
+            "title": "中国棋王争霸赛决赛",
             "cancelled": false,
             "bili_opus_url": "1047165537052786697",
-            "record": ""
+            "record": "BV1WyZ3YREKk"
         },
         {
-            "date": "2025-03-26 19:00+08:00",
+            "date": "2025-03-26 14:30+08:00",
             "type": "go",
-            "title": "围棋大赛直播",
+            "title": "中国棋王争霸赛",
             "cancelled": false,
-            "bili_opus_url": "1047165537052786697",
-            "record": ""
+            "bili_opus_url": "1047912371732873237",
+            "record": "BV1D2oiYiES2"
         },
         {
             "date": "2025-03-25 19:00+08:00",
@@ -117,10 +117,10 @@
         {
             "date": "2025-03-24 19:00+08:00",
             "type": "game",
-            "title": "刺客信条",
+            "title": "刺客信条影",
             "cancelled": false,
             "bili_opus_url": "1047165537052786697",
-            "record": ""
+            "record": "BV1Yno2YNE7b"
         }]
     },
     {
@@ -130,10 +130,10 @@
         {
             "date": "2025-03-23 19:00+08:00",
             "type": "game",
-            "title": "刺客信条",
+            "title": "刺客信条影",
             "cancelled": false,
             "bili_opus_url": "1046829769403924482",
-            "record": ""
+            "record": "BV1wxoBYfEVp"
         },
         {
             "date": "2025-03-22 19:00+08:00",
@@ -161,7 +161,7 @@
         },
         {
             "date": "2025-03-19 19:00+08:00",
-            "type": "chat",
+            "type": "game",
             "title": "刺客信条 荒野大镖客 斗地主",
             "cancelled": false,
             "bili_opus_url": "1045697585990336518",
