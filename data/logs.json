@@ -1,0 +1,147 @@
+{
+    "site_changelog":
+    {
+        "name": "网站更新日志",
+        "description": "记录网站的更新和变更历史",
+        "last_updated": "2025-04-06",
+        "repository": "https://github.com/iyingfans",
+        "type_definitions":
+        {
+            "major": "重大版本发布",
+            "feature": "新功能",
+            "optimize": "优化改进",
+            "fix": "问题修复",
+            "init": "初始化",
+            "by": "iyingforever"
+        },
+        "logs": [
+        {
+            "date": "2025-04-01",
+            "version": "0.7.7",
+            "type": "optimize",
+            "content": "",
+            "details": "",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-30",
+            "version": "0.7.6",
+            "type": "optimize",
+            "content": "配置服务器",
+            "details": "配置服务器，添加樱花动效，优化轮播图，修复打包过程的bug",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-29",
+            "version": "0.7.6",
+            "type": "optimize",
+            "content": "配置服务器",
+            "details": "采购服务器，采购域名",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-28",
+            "version": "0.7.5",
+            "type": "fix",
+            "content": "优化接口防护和后台逻辑",
+            "details": "重新设计接口防护逻辑，完善用户后台管理页面和相关逻辑",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-27",
+            "version": "0.7.4",
+            "type": "optimize",
+            "content": "优化接口防护",
+            "details": "优化接口防护逻辑，完善上传页面逻辑，获取访问者ip地址",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-26",
+            "version": "0.7.3",
+            "type": "feature",
+            "content": "完成图片上传接口和生成缩略图",
+            "details": "实现图片上传校验、压缩图片为缩略图",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-25",
+            "version": "0.7.2",
+            "type": "fix",
+            "content": "优化缓存设计",
+            "details": "添加开播状态显示，添加站内资源统计，系统常量从Caffeine缓存换为本地变量，使用Pinia存储常量",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-24",
+            "version": "0.7.2",
+            "type": "fix",
+            "content": "优化动画和分页组件",
+            "details": "修复接口参数bug，修复分页组件bug，增加缩略图预览，优化首页遮罩层动画效果，首页大图改为轮播图",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-23",
+            "version": "0.7.2",
+            "type": "optimize",
+            "content": "优化调试接口",
+            "details": "设计上传页面样式，完善日程表页面样式和逻辑，完善外部文件结构和数据，主页增加特效彩蛋",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-22",
+            "version": "0.7.2",
+            "type": "optimize",
+            "content": "优化调试接口",
+            "details": "优化调试上传接口，后台页面调整，日程页面样式调整",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-21",
+            "version": "0.7.1",
+            "type": "optimize",
+            "content": "调试新增接口",
+            "details": "优化接口返回参数,新增上传接口",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-20",
+            "version": "0.7.0",
+            "type": "feature",
+            "content": "新增日程页面",
+            "details": "日程页面内容文件的外部存储方案设计",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-17",
+            "version": "0.6.0",
+            "type": "feature",
+            "content": "新增后台管理页面",
+            "details": "完善新增的后台管理系统接口",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-03-16",
+            "version": "0.5.0",
+            "type": "fix",
+            "content": "简化接口",
+            "details": "优化后台接口返回数据结构，合并相似功能接口",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2024-06-18",
+            "version": "0.0.1",
+            "type": "init",
+            "content": "重构项目为前后端方式",
+            "details": "废弃静态页面模式，改为前后端动态模式",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2024-05-18",
+            "version": "0.0.1",
+            "type": "init",
+            "content": "新建文件夹",
+            "details": "项目启动",
+            "by": "iyingforever"
+        }]
+    }
+}

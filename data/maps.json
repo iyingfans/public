@@ -1,0 +1,14 @@
+{
+    "eventTypeMap":
+    {
+        "chat": "唠嗑",
+        "go": "围棋",
+        "together": "互动",
+        "game": "游戏",
+        "watch": "观影",
+        "rest": "休息",
+        "radio": "电台",
+        "collab": "联动",
+        "offline": "线下"
+    }
+}
