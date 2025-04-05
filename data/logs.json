@@ -12,15 +12,39 @@
             "optimize": "优化改进",
             "fix": "问题修复",
             "init": "初始化",
-            "by": "iyingforever"
+            "by": "修改用户"
         },
         "logs": [
         {
-            "date": "2025-04-01",
+            "date": "2025-04-05",
+            "version": "0.7.9",
+            "type": "fix",
+            "content": "修复图片上传bug",
+            "details": "修复图片上传bug",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-04-04",
+            "version": "0.7.8",
+            "type": "fix",
+            "content": "修复bug",
+            "details": "修复图片显示bug，优化权限判断，优化上传逻辑",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-04-03",
             "version": "0.7.7",
             "type": "optimize",
-            "content": "",
-            "details": "",
+            "content": "捅了bug窝",
+            "details": "这诗人写的？能修吗？修不了一点",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2025-04-02",
+            "version": "0.7.7",
+            "type": "fix",
+            "content": "优化页面设计",
+            "details": "减少页脚信息，修复移动端css样式丢失的bug",
             "by": "iyingforever"
         },
         {
@@ -59,8 +83,8 @@
             "date": "2025-03-26",
             "version": "0.7.3",
             "type": "feature",
-            "content": "完成图片上传接口和生成缩略图",
-            "details": "实现图片上传校验、压缩图片为缩略图",
+            "content": "新增图片上传功能",
+            "details": "实现图片上传校验、压缩图片，生成缩略图",
             "by": "iyingforever"
         },
         {
@@ -83,7 +107,7 @@
             "date": "2025-03-23",
             "version": "0.7.2",
             "type": "optimize",
-            "content": "优化调试接口",
+            "content": "优化接口",
             "details": "设计上传页面样式，完善日程表页面样式和逻辑，完善外部文件结构和数据，主页增加特效彩蛋",
             "by": "iyingforever"
         },
@@ -91,7 +115,7 @@
             "date": "2025-03-22",
             "version": "0.7.2",
             "type": "optimize",
-            "content": "优化调试接口",
+            "content": "优化接口",
             "details": "优化调试上传接口，后台页面调整，日程页面样式调整",
             "by": "iyingforever"
         },
@@ -125,6 +149,14 @@
             "type": "fix",
             "content": "简化接口",
             "details": "优化后台接口返回数据结构，合并相似功能接口",
+            "by": "iyingforever"
+        },
+        {
+            "date": "2024-08-13",
+            "version": "0.2.0",
+            "type": "feature",
+            "content": "完成网站框架搭建",
+            "details": "整体样式设计，子页面类目",
             "by": "iyingforever"
         },
         {
