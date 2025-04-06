@@ -16,6 +16,14 @@
         },
         "logs": [
         {
+            "date": "2025-04-07",
+            "version": "0.8.0",
+            "type": "fix",
+            "content": "修复bug",
+            "details": "修复图片上传bug，修复nginx代理，修复yml配置，修复biliapi，创建定时脚本工作链",
+            "by": "iyingforever"
+        },
+        {
             "date": "2025-04-05",
             "version": "0.7.9",
             "type": "fix",
