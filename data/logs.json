@@ -16,7 +16,7 @@
         },
         "logs": [
         {
-            "date": "2025-04-07",
+            "date": "2025-04-06",
             "version": "0.8.0",
             "type": "fix",
             "content": "修复bug",
