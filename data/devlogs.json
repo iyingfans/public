@@ -3,7 +3,7 @@
     {
         "name": "网站更新日志",
         "description": "记录网站的更新和变更历史",
-        "last_updated": "2025-04-07",
+        "last_updated": "2025-04-08",
         "repository": "https://github.com/iyingfans",
         "type_definitions":
         {
@@ -15,6 +15,14 @@
             "by": "修改用户"
         },
         "logs": [
+        {
+            "date": "2025-04-08",
+            "version": "0.9.0",
+            "type": "major",
+            "content": "散石碎生日快乐~",
+            "details": "第一版上线",
+            "by": "iyingforever"
+        },
         {
             "date": "2025-04-07",
             "version": "0.8.1",
