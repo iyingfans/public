@@ -7,7 +7,7 @@
         "repository": "https://github.com/iyingfans",
         "type_definitions":
         {
-            "major": "重大版本发布",
+            "major": "版本发布",
             "feature": "新功能",
             "optimize": "优化改进",
             "fix": "问题修复",
