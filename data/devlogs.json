@@ -3,7 +3,7 @@
     {
         "name": "网站更新日志",
         "description": "记录网站的更新和变更历史",
-        "last_updated": "2025-04-08",
+        "last_updated": "2025-04-13",
         "repository": "https://github.com/iyingfans",
         "type_definitions":
         {
@@ -16,10 +16,18 @@
         },
         "logs": [
         {
+            "date": "2025-04-13",
+            "version": "0.9.2",
+            "type": "fix",
+            "content": "修复域名访问错误",
+            "details": "修复nginx重定向异常，更改动画图片为鳄鱼夹",
+            "by": "iyingforever"
+        },
+        {
             "date": "2025-04-10",
             "version": "0.9.1",
             "type": "fix",
-            "content": "修复直播状态提醒",
+            "content": "修复直播提醒异常",
             "details": "修复直播状态不能更新的bug，优化频繁读取数据为缓存",
             "by": "iyingforever"
         },
