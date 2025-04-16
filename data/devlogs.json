@@ -3,7 +3,7 @@
     {
         "name": "网站更新日志",
         "description": "记录网站的更新和变更历史",
-        "last_updated": "2025-04-15",
+        "last_updated": "2025-04-17",
         "repository": "https://github.com/iyingfans",
         "type_definitions":
         {
@@ -16,9 +16,17 @@
         },
         "logs": [
         {
+            "date": "2025-04-16",
+            "version": "0.9.4",
+            "type": "fix",
+            "content": "修复图片标签查询功能",
+            "details": "修复图片标签查询功能",
+            "by": "iyingforever"
+        },
+        {
             "date": "2025-04-15",
             "version": "0.9.3",
-            "type": "optimize",
+            "type": "fix",
             "content": "修复图片预览功能",
             "details": "修复图片预览功能",
             "by": "iyingforever"
