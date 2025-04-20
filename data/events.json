@@ -3,6 +3,67 @@
     "events": [
     {
         "year": 2025,
+        "week": 17,
+        "events": [
+        {
+            "date": "2025-04-27 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-26 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-25 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-24 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-23 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-22 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        },
+        {
+            "date": "2025-04-21 19:00+08:00",
+            "type": "rest",
+            "title": "",
+            "cancelled": false,
+            "bili_opus_url": "",
+            "record": ""
+        }]
+    },
+    {
+        "year": 2025,
         "week": 16,
         "events": [
         {
@@ -22,11 +83,11 @@
             "record": ""
         },
         {
-            "date": "2025-04-18 14:30+08:00",
-            "type": "go",
-            "title": "北海新绎杯世界公开赛决赛第二场",
+            "date": "2025-04-18 19:00+08:00",
+            "type": "rest",
+            "title": "",
             "cancelled": false,
-            "bili_opus_url": "1056843309590249481",
+            "bili_opus_url": "",
             "record": ""
         },
         {
