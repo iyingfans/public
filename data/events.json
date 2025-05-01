@@ -47,7 +47,7 @@
                 },
                 {
                     "date": "2025-04-29 13:00+08:00",
-                    "type": "rest",
+                    "type": "game",
                     "title": "浅玩一下法环~",
                     "cancelled": false,
                     "bili_opus_url": "1060896117988786200",
@@ -55,7 +55,7 @@
                 },
                 {
                     "date": "2025-04-28 14:00+08:00",
-                    "type": "go",
+                    "type": "game",
                     "title": "浅玩一下法环~",
                     "cancelled": false,
                     "bili_opus_url": "1060192456313667609",
