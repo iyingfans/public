@@ -46,20 +46,20 @@
                     "record": ""
                 },
                 {
-                    "date": "2025-04-29 13:00+08:00",
-                    "type": "game",
-                    "title": "浅玩一下法环~",
+                    "date": "2025-04-29 19:00+08:00",
+                    "type": "rest",
+                    "title": "",
                     "cancelled": false,
-                    "bili_opus_url": "1060896117988786200",
-                    "record": "BV1pHGCz3E1q"
+                    "bili_opus_url": "",
+                    "record": ""
                 },
                 {
                     "date": "2025-04-28 14:00+08:00",
-                    "type": "game",
-                    "title": "浅玩一下法环~",
+                    "type": "go",
+                    "title": "下午大赛直播/晚上玩游戏",
                     "cancelled": false,
                     "bili_opus_url": "1060192456313667609",
-                    "record": "BV1AoLUzYEYH"
+                    "record": ""
                 }
             ]
         },

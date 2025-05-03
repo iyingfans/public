@@ -3,7 +3,7 @@
     {
         "name": "网站更新日志",
         "description": "记录网站的更新和变更历史",
-        "last_updated": "2025-04-27",
+        "last_updated": "2025-05-03",
         "repository": "https://github.com/iyingfans",
         "type_definitions":
         {
@@ -15,6 +15,14 @@
             "by": "修改用户"
         },
         "logs": [
+        {
+            "date": "2025-05-03",
+            "version": "0.9.7",
+            "type": "optimize",
+            "content": "优化歌单页面",
+            "details": "修复已知bug，优化歌曲页面，服务端优化",
+            "by": "iyingforever"
+        },
         {
             "date": "2025-04-27",
             "version": "0.9.6",
