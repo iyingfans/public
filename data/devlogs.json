@@ -18,7 +18,7 @@
         {
             "date": "2025-05-05",
             "version": "0.2.8",
-            "type": "optimize",
+            "type": "feature",
             "content": "自动获取预约动态",
             "details": "自动获取预约动态",
             "by": "iyingforever"
@@ -122,7 +122,7 @@
         {
             "date": "2025-04-03",
             "version": "0.1.17",
-            "type": "optimize",
+            "type": "fix",
             "content": "捅了bug窝",
             "details": "这诗人写的？能修吗？修不了一点",
             "by": "iyingforever"
@@ -130,7 +130,7 @@
         {
             "date": "2025-04-02",
             "version": "0.1.16",
-            "type": "fix",
+            "type": "optimize",
             "content": "优化页面设计",
             "details": "减少页脚信息，修复移动端css样式丢失的bug",
             "by": "iyingforever"
@@ -154,7 +154,7 @@
         {
             "date": "2025-03-28",
             "version": "0.1.13",
-            "type": "fix",
+            "type": "optimize",
             "content": "优化接口防护和后台逻辑",
             "details": "重新设计接口防护逻辑，完善用户后台管理页面和相关逻辑",
             "by": "iyingforever"
@@ -178,7 +178,7 @@
         {
             "date": "2025-03-25",
             "version": "0.1.10",
-            "type": "fix",
+            "type": "optimize",
             "content": "优化缓存设计",
             "details": "添加开播状态显示，添加站内资源统计，系统常量从Caffeine缓存换为本地变量，使用Pinia存储常量",
             "by": "iyingforever"
@@ -186,7 +186,7 @@
         {
             "date": "2025-03-24",
             "version": "0.1.9",
-            "type": "fix",
+            "type": "optimize",
             "content": "优化动画和分页组件",
             "details": "修复接口参数bug，修复分页组件bug，增加缩略图预览，优化首页遮罩层动画效果，首页大图改为轮播图",
             "by": "iyingforever"
@@ -234,7 +234,7 @@
         {
             "date": "2025-03-16",
             "version": "0.1.3",
-            "type": "fix",
+            "type": "optimize",
             "content": "简化接口",
             "details": "优化后台接口返回数据结构，合并相似功能接口",
             "by": "iyingforever"
@@ -242,7 +242,7 @@
         {
             "date": "2024-08-13",
             "version": "0.1.2",
-            "type": "feature",
+            "type": "optimize",
             "content": "完成网站框架搭建",
             "details": "整体样式设计，子页面类目",
             "by": "iyingforever"
