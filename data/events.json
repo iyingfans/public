@@ -7,8 +7,8 @@
             "events": [
                 {
                     "date": "2025-05-25 19:00+08:00",
-                    "type": "rest",
-                    "title": "",
+                    "type": "game",
+                    "title": "法环？",
                     "cancelled": false,
                     "bili_opus_url": "",
                     "record": ""
@@ -23,11 +23,11 @@
                 },
                 {
                     "date": "2025-05-23 19:00+08:00",
-                    "type": "game",
-                    "title": "恢复开播法环～",
+                    "type": "chat",
+                    "title": "鹰来啦～",
                     "cancelled": false,
                     "bili_opus_url": "1069799383382360080",
-                    "record": ""
+                    "record": "BV1vUjJzuEak"
                 },
                 {
                     "date": "2025-05-22 19:00+08:00",
