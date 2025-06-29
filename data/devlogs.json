@@ -3,7 +3,7 @@
     {
         "name": "网站更新日志",
         "description": "记录网站的更新和变更历史",
-        "last_updated": "2025-05-05",
+        "last_updated": "2025-06-29",
         "repository": "https://github.com/iyingfans",
         "type_definitions":
         {
@@ -15,6 +15,14 @@
             "by": "修改用户"
         },
         "logs": [
+        {
+            "date": "2025-06-29",
+            "version": "0.2.9",
+            "type": "optimize",
+            "content": "优化自动获取预约动态",
+            "details": "优化判断预约动态类型",
+            "by": "iyingforever"
+        },
         {
             "date": "2025-05-05",
             "version": "0.2.8",
