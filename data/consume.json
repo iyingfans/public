@@ -1,0 +1,34 @@
+{
+    "consumeList": [
+        {
+            "name": "服务器续费",
+            "price": -61.32,
+            "time": "2025-06-28",
+            "snip": "/profile/upload/system/pay/005.png"
+        },
+        {
+            "name": "服务器续费",
+            "price": -61.50,
+            "time": "2025-05-28",
+            "snip": "/profile/upload/system/pay/004.png"
+        },
+        {
+            "name": "服务器续费",
+            "price": -62.36,
+            "time": "2025-04-25",
+            "snip": "/profile/upload/system/pay/003.png"
+        },
+        {
+            "name": "购买服务器",
+            "price": -62.13,
+            "time": "2025-03-29",
+            "snip": "/profile/upload/system/pay/002.png"
+        },
+        {
+            "name": "购买域名",
+            "price": -131.07,
+            "time": "2025-03-29",
+            "snip": "/profile/upload/system/pay/001.png"
+        }
+    ]
+}
