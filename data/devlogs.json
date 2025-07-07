@@ -18,9 +18,9 @@
         {
             "date": "2025-07-07",
             "version": "0.3.0",
-            "type": "optimize",
-            "content": "优化自动获取预约动态",
-            "details": "优化判断预约动态类型",
+            "type": "feature",
+            "content": "支持轮播图展示活动",
+            "details": "为轮播图添加展示活动",
             "by": "iyingforever"
         },
         {
