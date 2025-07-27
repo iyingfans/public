@@ -2,6 +2,12 @@
     "consumeList": [
         {
             "name": "服务器续费",
+            "price": -61.25,
+            "time": "2025-07-27",
+            "snip": "/profile/upload/system/pay/006.png"
+        },
+        {
+            "name": "服务器续费",
             "price": -61.32,
             "time": "2025-06-28",
             "snip": "/profile/upload/system/pay/005.png"
